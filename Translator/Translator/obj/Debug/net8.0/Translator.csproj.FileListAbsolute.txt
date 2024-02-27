@@ -1,0 +1,14 @@
+C:\Users\lukac\source\repos\Translator\Translator\bin\Debug\net8.0\Translator.exe
+C:\Users\lukac\source\repos\Translator\Translator\bin\Debug\net8.0\Translator.deps.json
+C:\Users\lukac\source\repos\Translator\Translator\bin\Debug\net8.0\Translator.runtimeconfig.json
+C:\Users\lukac\source\repos\Translator\Translator\bin\Debug\net8.0\Translator.dll
+C:\Users\lukac\source\repos\Translator\Translator\bin\Debug\net8.0\Translator.pdb
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.AssemblyInfoInputs.cache
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.AssemblyInfo.cs
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.dll
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\refint\Translator.dll
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.pdb
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\Translator.genruntimeconfig.cache
+C:\Users\lukac\source\repos\Translator\Translator\obj\Debug\net8.0\ref\Translator.dll

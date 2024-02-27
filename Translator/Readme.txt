@@ -1,0 +1,1 @@
+gadaitanet translations.txt desktopze

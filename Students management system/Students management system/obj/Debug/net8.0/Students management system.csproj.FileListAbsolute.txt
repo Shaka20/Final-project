@@ -1,0 +1,14 @@
+C:\Users\Shaka\source\repos\Students management system\Students management system\bin\Debug\net8.0\Students management system.exe
+C:\Users\Shaka\source\repos\Students management system\Students management system\bin\Debug\net8.0\Students management system.deps.json
+C:\Users\Shaka\source\repos\Students management system\Students management system\bin\Debug\net8.0\Students management system.runtimeconfig.json
+C:\Users\Shaka\source\repos\Students management system\Students management system\bin\Debug\net8.0\Students management system.dll
+C:\Users\Shaka\source\repos\Students management system\Students management system\bin\Debug\net8.0\Students management system.pdb
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.AssemblyInfoInputs.cache
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.AssemblyInfo.cs
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.csproj.CoreCompileInputs.cache
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.dll
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\refint\Students management system.dll
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.pdb
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\Students management system.genruntimeconfig.cache
+C:\Users\Shaka\source\repos\Students management system\Students management system\obj\Debug\net8.0\ref\Students management system.dll
